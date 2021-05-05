@@ -1,0 +1,15 @@
+/*
+Name: Elizabeth Fox
+Date: 2/28/21
+main file for tetris project
+*/
+
+class Main{
+    constructor Main new(){
+        var tetrisGame game;
+        do tetrisGame.newInstance();
+        let game = tetrisGame.getInstance();
+        do game.run();
+        do game.dispose();
+    }
+}
