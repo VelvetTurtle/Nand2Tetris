@@ -1,2 +1,1 @@
-These are my projects for the book "Elements of Computing Systems" or nand2tetris. These projects were done for learning purposes. I am currently on Project 11 and 
-will eventually go back and finish it.
+These are my projects for the book "Elements of Computing Systems" or nand2tetris. These projects were done so that i could learn about computer architecture and how higher level languages compile to machine code. I am currently debugging Project 11 and will eventually go back and finish it when I have the time.
