@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 27 19:10:33 2021
 
-@author: Elizabeth Fox
+@author: VelvetTurtle
 """
 
 class SymbolTable():
