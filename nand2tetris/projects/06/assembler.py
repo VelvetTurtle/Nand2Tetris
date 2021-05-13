@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 27 19:07:59 2021
 
-@author: Elizabeth Fox
+@author: VelvetTurtle
 """
 from hack_parser import Parser
 from SymbolTable import SymbolTable
