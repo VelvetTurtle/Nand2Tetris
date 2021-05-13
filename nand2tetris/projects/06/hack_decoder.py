@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 27 21:03:55 2021
 
-@author: ELizabeth Fox
+@author: VelvetTurtle
 """
 
 class Code:
