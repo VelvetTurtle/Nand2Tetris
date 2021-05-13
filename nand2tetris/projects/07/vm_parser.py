@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  4 16:00:18 2021
 
-@author: Elizabeth Fox
+@author: VelvetTurtle
 """
 
 class VMParser():
