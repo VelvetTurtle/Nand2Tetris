@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 28 19:44:34 2021
 
-@author: Elizabeth Fox
+@author: VelvetTurtle
 """
 class Parser:
     def __init__(self, fileName):
