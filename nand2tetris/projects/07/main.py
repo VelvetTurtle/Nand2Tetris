@@ -2,7 +2,7 @@
 """
 Created on Tue Feb  9 19:20:52 2021
 
-@author: velve
+@author: VelvetTurtle
 """
 from vm_parser import VMParser
 from vm_code_writer import CodeWriter
