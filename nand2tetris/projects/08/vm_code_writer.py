@@ -2,7 +2,7 @@
 """
 Created on Sun Feb  7 18:37:50 2021
 
-@author: velve
+@author: VelvetTurtle
 """
 class CodeWriter():
     #register mapping segments with the start of their registers
